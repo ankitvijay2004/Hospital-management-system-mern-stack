@@ -74,8 +74,6 @@ Follow these instructions to set up the project locally.
 # Topics
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
 
-# Contributors
-Niraj Kumar [Github](https://github.com/meniraj07)
 
 # Deployment Links
 [Prescripto Backend](https://prescriptobackend-4ylq.onrender.com)
