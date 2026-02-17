@@ -82,8 +82,5 @@ Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare
 
 [Prescripto Admin/Doctor Panel](https://prescripto-hospital-management-system-c29o.vercel.app/)
 
-# Contact
-For any questions or feedback, please contact [Niraj Kumar](https://www.linkedin.com/in/nirajkumar-nk/)
-
 # License
 This project is licensed under the MIT License.
